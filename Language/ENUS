@@ -60,5 +60,5 @@ return {
 	Type = "Type",
 	Hints = "Hints",
 	Cause = "Cause",
-	GetCode = "Get Script",
+	GetCode = "Get Script"
 }
