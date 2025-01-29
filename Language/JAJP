@@ -60,5 +60,5 @@ return {
 	Type = "タイプ",
 	Hints = "ヒント",
 	Cause = "原因",
-	GetCode = "スクリプトを取得",
+	GetCode = "スクリプトを取得"
 }
