@@ -60,5 +60,5 @@ return {
 	Type = "类型",
 	Hints = "提示",
 	Cause = "原因",
-	GetCode = "获取实体脚本",
+	GetCode = "获取实体脚本"
 }
