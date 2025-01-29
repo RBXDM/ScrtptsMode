@@ -60,5 +60,5 @@ return {
 	Type = "類型",
 	Hints = "提示",
 	Cause = "原因",
-	GetCode = "獲取腳本",
+	GetCode = "獲取腳本"
 }
