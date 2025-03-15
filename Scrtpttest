@@ -1,0 +1,9 @@
+if getgenv().issmloading or getgenv().issmloaded then
+    print("Script Loading Stopped")
+end
+getgenv().issmloading = true
+--结尾
+getgenv().issmloading = false
+getgenv().issmloaded = true
+
+loadstring(后门)
